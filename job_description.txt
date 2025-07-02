@@ -1,0 +1,1 @@
+We are looking for a Data Science intern who is proficient in Python, has experience with pandas, machine learning models, and basic NLP techniques.
