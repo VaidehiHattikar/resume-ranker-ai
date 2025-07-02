@@ -5,23 +5,19 @@ A smart resume-matching tool that reads a **job description** and compares it wi
 ---
 
 ##  Folder Structure
-
+```
 resume-ranker-ai/
 ├── main.py
 ├── utils.py
 ├── job_description.txt
 ├── requirements.txt
-├── README.md
+├─ README.md
 └── sample_resumes/
 ├── resume_1.json
 ├── resume_2.json
 └── ...
+```
 
-yaml
-Copy
-Edit
-
----
 
 ##  What This Project Does
 
@@ -47,9 +43,9 @@ cd resume-ranker-ai
 pip install -r requirements.txt
 ```
 ### 3. Add your files
- Add your job description inside job_description.txt
+ Add your job description inside `job_description.txt`
 
- Put all resume .json files in the sample_resumes/ folder
+ Put all resume `.json` files in the `sample_resumes/` folder
 
 ### 4. Run the program
 ```bash
@@ -82,11 +78,3 @@ pip install -r requirements.txt
 ### Built By
 Vaidehi Hattikar
 Data Science undergrad | Python + ML Enthusiast
-
-Give it a star if you like it!
-Let me know if you'd like me to:
-- Generate a professional logo/banner for the GitHub repo
-- Help write the `.gitignore` file to avoid pushing large datasets
-- Write a professional LinkedIn post or résumé line for this project
-
-You're just a commit away from a killer portfolio project. 🚀
